@@ -78,7 +78,7 @@ $ git diff source_branch target_branch
 $ git merge branch_name
 ```
 
-##### 7) Replace local changes
+#### 7) Replace local changes
 - replaced with the last content in HEAD (commit before push)
 ```bash
 $ git checkout -- README.md
